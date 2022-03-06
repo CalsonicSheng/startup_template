@@ -1,0 +1,22 @@
+.warning-message-custom {
+  color: rgb(224, 78, 52);
+}
+
+.text-custom {
+  text-decoration: none;
+  font-weight: bolder;
+  color: rgb(190, 132, 132);
+}
+
+.text-custom:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.button-custom {
+  border-radius: 15px;
+}
+
+.button-custom:hover {
+  opacity: 0.8;
+}

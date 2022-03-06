@@ -1,0 +1,13 @@
+.radius-custom {
+  border-radius: 15px;
+}
+
+.list-group-raidus-custom-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.list-group-raidus-custom-bottom {
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}

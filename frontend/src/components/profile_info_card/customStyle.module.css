@@ -1,0 +1,16 @@
+.text-custom {
+  font-weight: bold !important;
+}
+
+.radius-custom {
+  border-radius: 15px !important;
+}
+
+.button-custom {
+  height: 30px !important;
+  width: 70px !important;
+}
+
+.button-custom:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,23 @@
+.img-custom {
+  border-radius: 15px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.btn-custom:hover {
+  color: red;
+  opacity: 0.8;
+}
+
+.p-custom {
+  color: black;
+}
+
+.radius-custom {
+  border-radius: 15px;
+}
+
+.select-custom {
+  background-color: rgb(233, 233, 233);
+}

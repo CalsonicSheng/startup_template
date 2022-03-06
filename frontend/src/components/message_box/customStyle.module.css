@@ -1,0 +1,21 @@
+.error-message-box {
+  padding: 10px 20px;
+  background-color: rgb(255, 68, 62);
+  margin-bottom: 20px;
+}
+
+.notification-message-box {
+  padding: 10px 20px;
+  background-color: rgb(137, 135, 238);
+  margin-bottom: 20px;
+}
+
+.success-action-message-box {
+  padding: 10px 20px;
+  background-color: rgb(85, 194, 34);
+  margin-bottom: 20px;
+}
+
+.radius-custom {
+  border-radius: 15px;
+}
